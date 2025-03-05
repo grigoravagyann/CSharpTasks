@@ -1,4 +1,4 @@
-﻿/*
+/*
 Task 3:  Implement a BigInt Class in C#
 Task: Implement a custom BigInt class in C# to handle arbitrarily large integers using strings or arrays.
     1) Class Definition:
@@ -17,9 +17,6 @@ Task: Implement a custom BigInt class in C# to handle arbitrarily large integers
         Abs(): Returns the absolute value of the BigInt.
         CompareTo(BigInt other): Compare two BigInt objects.
 */
-
-using System.Data;
-using System.Numerics;
 
 class BigInt
 {
