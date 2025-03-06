@@ -125,11 +125,6 @@ class BigInt
         string resultString = string.Join("", result).TrimStart('0');
         return resultString;
     }
-    //public static BigInt operator /(BigInt bigInt1, BigInt bigInt2) => new BigInt(DivideStrings(bigInt1._bigIntNumber!, bigInt2._bigIntNumber!));
-    // public static string DivideStrings(string bigInt1, string bigInt2)
-    // {
-        
-    // }
 
     public static bool operator ==(BigInt bigInt1, BigInt bigInt2) => bigInt1._bigIntNumber == bigInt2._bigIntNumber;
     public static bool operator !=(BigInt bigInt1, BigInt bigInt2) => bigInt1._bigIntNumber != bigInt2._bigIntNumber;
@@ -223,7 +218,6 @@ class MainClass
         Console.WriteLine($"+: {bigInt1+bigInt2}");
         Console.WriteLine($"-: {bigInt1-bigInt2}");
         Console.WriteLine($"*: {bigInt1*bigInt2}");
-        //Console.WriteLine($"/: {bigInt2/bigInt1}");
         Console.WriteLine($"==: {bigInt1==bigInt2}");
         Console.WriteLine($"!=: {bigInt1!=bigInt2}");
         Console.WriteLine($"<: {bigInt1<bigInt2}");
