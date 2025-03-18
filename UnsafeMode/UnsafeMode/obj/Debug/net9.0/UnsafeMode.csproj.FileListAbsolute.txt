@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\bin\Debug\net9.0\UnsafeMode.exe
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\bin\Debug\net9.0\UnsafeMode.deps.json
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\bin\Debug\net9.0\UnsafeMode.runtimeconfig.json
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\bin\Debug\net9.0\UnsafeMode.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\bin\Debug\net9.0\UnsafeMode.pdb
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.AssemblyInfo.cs
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.sourcelink.json
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\refint\UnsafeMode.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.pdb
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\UnsafeMode.genruntimeconfig.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\UnsafeMode\UnsafeMode\obj\Debug\net9.0\ref\UnsafeMode.dll
