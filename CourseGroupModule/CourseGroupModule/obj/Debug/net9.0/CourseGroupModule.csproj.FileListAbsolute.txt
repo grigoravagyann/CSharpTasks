@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\bin\Debug\net9.0\CourseGroupModule.exe
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\bin\Debug\net9.0\CourseGroupModule.deps.json
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\bin\Debug\net9.0\CourseGroupModule.runtimeconfig.json
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\bin\Debug\net9.0\CourseGroupModule.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\bin\Debug\net9.0\CourseGroupModule.pdb
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.AssemblyInfo.cs
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.sourcelink.json
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\refint\CourseGroupModule.dll
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.pdb
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\CourseGroupModule.genruntimeconfig.cache
+C:\Users\user\Desktop\PicsArt Academy\C#\CourseGroupModule\CourseGroupModule\obj\Debug\net9.0\ref\CourseGroupModule.dll

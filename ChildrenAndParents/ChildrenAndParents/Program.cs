@@ -24,6 +24,7 @@ class Program
         ChildrenMethods.MaxAgeFatherSalary(children);   // 2)
         ChildrenMethods.MaxFamilyIncomeChild(children); // 3)
         ChildrenMethods.SwapMinMaxAge(children);    // 4)
+        children[0].foo();
 
         Console.ReadKey();
     }
