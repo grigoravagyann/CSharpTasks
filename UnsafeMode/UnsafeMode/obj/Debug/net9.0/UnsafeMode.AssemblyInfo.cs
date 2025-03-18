@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnsafeMode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83540e2b12fbedd55a93be041490e0c34e3025f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98898dcd9df6c05d4d5c594980c65d7a101f19bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnsafeMode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnsafeMode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

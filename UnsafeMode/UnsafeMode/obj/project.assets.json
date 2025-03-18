@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
       "projectName": "UnsafeMode",
-      "projectPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

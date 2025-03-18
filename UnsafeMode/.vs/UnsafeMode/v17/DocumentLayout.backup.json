@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\unsafemode\\unsafemode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|c:\\users\\user\\desktop\\picsart academy\\csharptasks\\unsafemode\\unsafemode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|solutionrelative:unsafemode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\unsafemode\\unsafemode\\unsafemode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|c:\\users\\user\\desktop\\picsart academy\\csharptasks\\unsafemode\\unsafemode\\unsafemode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D81EBA86-2D8F-4D39-A5D0-15627D82F5DE}|UnsafeMode\\UnsafeMode.csproj|solutionrelative:unsafemode\\unsafemode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -27,25 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnsafeMode",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
+              "Title": "UnsafeMode.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
               "RelativeDocumentMoniker": "UnsafeMode\\UnsafeMode.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\UnsafeMode.csproj",
               "RelativeToolTip": "UnsafeMode\\UnsafeMode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T15:28:19.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T15:28:19.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\Program.cs",
               "RelativeDocumentMoniker": "UnsafeMode\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\UnsafeMode\\UnsafeMode\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\UnsafeMode\\UnsafeMode\\Program.cs",
               "RelativeToolTip": "UnsafeMode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T15:27:38.206Z",
               "EditorCaption": ""
