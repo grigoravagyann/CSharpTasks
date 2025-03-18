@@ -1,14 +1,7 @@
 ﻿
-using System.Runtime.CompilerServices;
-
 namespace ChildrenAndParents
 {
-    static class Extensionforp {
-        public static void foo(this Child ptr) {
-            Console.WriteLine("Hello from Extension Method");
-        }
-    }
-    static class ChildrenMethods
+    static class Methods
     {
         public static void PrintByParentsAge(double year, params Child[] children)
         {
