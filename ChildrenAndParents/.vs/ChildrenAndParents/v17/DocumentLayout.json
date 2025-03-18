@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\childrenandparents\\parentandchild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|solutionrelative:parentandchild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|c:\\users\\user\\desktop\\picsart academy\\childrenandparents\\childrenandparents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|solutionrelative:childrenandparents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\childrenandparents\\parentandchild\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|solutionrelative:parentandchild\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|c:\\users\\user\\desktop\\picsart academy\\childrenandparents\\childrenandparents\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|solutionrelative:childrenandparents\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\childrenandparents\\parentandchild\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F944C42A-2DB7-4A26-AAA6-8DEC3848EDA3}|ParentAndChild\\ParentAndChild.csproj|solutionrelative:parentandchild\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|c:\\users\\user\\desktop\\picsart academy\\childrenandparents\\childrenandparents\\childrenmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|solutionrelative:childrenandparents\\childrenmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|c:\\users\\user\\desktop\\picsart academy\\childrenandparents\\childrenandparents\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B87F3C4-DD27-48BC-B5FB-7596E3FE2982}|ChildrenAndParents\\ChildrenAndParents.csproj|solutionrelative:childrenandparents\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,40 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ParentClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\ParentClass.cs",
-              "RelativeDocumentMoniker": "ParentAndChild\\ParentClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\ParentClass.cs",
-              "RelativeToolTip": "ParentAndChild\\ParentClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Title": "ChildrenMethods.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ChildrenMethods.cs",
+              "RelativeDocumentMoniker": "ChildrenAndParents\\ChildrenMethods.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ChildrenMethods.cs",
+              "RelativeToolTip": "ChildrenAndParents\\ChildrenMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:51:27.382Z",
+              "WhenOpened": "2025-03-18T13:17:09.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ParentClass.cs",
+              "RelativeDocumentMoniker": "ChildrenAndParents\\ParentClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ParentClass.cs",
+              "RelativeToolTip": "ChildrenAndParents\\ParentClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:16:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ChildClass.cs",
+              "RelativeDocumentMoniker": "ChildrenAndParents\\ChildClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\ChildClass.cs",
+              "RelativeToolTip": "ChildrenAndParents\\ChildClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:16:32.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\Program.cs",
-              "RelativeDocumentMoniker": "ParentAndChild\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\Program.cs",
-              "RelativeToolTip": "ParentAndChild\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\Program.cs",
+              "RelativeDocumentMoniker": "ChildrenAndParents\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\ChildrenAndParents\\ChildrenAndParents\\Program.cs",
+              "RelativeToolTip": "ChildrenAndParents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:49:44.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChildClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\ChildClass.cs",
-              "RelativeDocumentMoniker": "ParentAndChild\\ChildClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\ChildrenAndParents\\ParentAndChild\\ChildClass.cs",
-              "RelativeToolTip": "ParentAndChild\\ChildClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T12:46:02.179Z",
+              "WhenOpened": "2025-03-18T13:15:53.983Z",
               "EditorCaption": ""
             }
           ]
