@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\MyString\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\mystring\\mystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\mystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|solutionrelative:mystring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\mystring\\mystring\\mystringclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|c:\\users\\user\\desktop\\picsart academy\\csharptasks\\mystring\\mystring\\mystringclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4804F438-F8CC-459D-9951-8748B3A75F13}|MyString\\MyString.csproj|solutionrelative:mystring\\mystringclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,34 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\MyString\\MyString\\Program.cs",
-              "RelativeDocumentMoniker": "MyString\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\MyString\\MyString\\Program.cs",
-              "RelativeToolTip": "MyString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:23:50.698Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\MyString\\Program.cs",
+              "RelativeDocumentMoniker": "MyString\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\MyString\\Program.cs",
+              "RelativeToolTip": "MyString\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:23:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyStringClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\MyString\\MyString\\MyStringClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\MyString\\MyStringClass.cs",
               "RelativeDocumentMoniker": "MyString\\MyStringClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\MyString\\MyString\\MyStringClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\CSharpTasks\\MyString\\MyString\\MyStringClass.cs",
               "RelativeToolTip": "MyString\\MyStringClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswHoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T13:24:16.565Z",
               "EditorCaption": ""

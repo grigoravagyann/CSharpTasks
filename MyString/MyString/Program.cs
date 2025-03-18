@@ -32,23 +32,21 @@ class Program
 {
     static void Main()
     {
-        MyString str1 = new MyString("Hello World!");
-        MyString str2 = new MyString("Hello World!");
-        MyString[] strs = new MyString[2] { str1, str2 };
+        MyString[] strs = new MyString[2] { new MyString("Hello World!"), new MyString("Hello World!") };
         string str3 = "Hello World!";
 
-        Console.WriteLine($"String: {str1.String}");
-        Console.WriteLine($"Compare : {str1.Compare(str2)}");
-        Console.WriteLine($"Operator == : {str1 == str2}");
-        Console.WriteLine($"Operator != : {str1 != str2}");
-        Console.WriteLine($"Equals : {str1.Equals(str2)}");
-        Console.WriteLine($"Equals with string: {MyString.Equals(str1, str2)}");
+        Console.WriteLine($"String: {strs[0].ToString()}");
+        Console.WriteLine($"Compare : {strs[0].Compare(strs[1])}");
+        Console.WriteLine($"Operator == : {strs[0] == strs[1]}");
+        Console.WriteLine($"Operator != : {strs[0] != strs[1]}");
+        Console.WriteLine($"Equals : {strs[0].Equals(strs[1])}");
+        Console.WriteLine($"Equals with string: {MyString.Equals(strs[0], strs[1])}");
         Console.WriteLine($"Join: {MyString.Join('_', strs)}");
-        Console.WriteLine($"Starts with: {str1.StartsWith("Hello")}");
-        Console.WriteLine($"Ends with: {str2.EndsWith("World!")}");
-        Console.WriteLine($"Indexer: {str1[0]}");
-        Console.WriteLine($"Concatenation: {(str1 + str2).String}");
-        Console.WriteLine($"Concatenation with string: {(str1 + str3).String}");
+        Console.WriteLine($"Starts with: {strs[0].StartsWith("Hello")}");
+        Console.WriteLine($"Ends with: {strs[1].EndsWith("World!")}");
+        Console.WriteLine($"Indexer: {strs[0][0]}");
+        Console.WriteLine($"Concatenation: {(strs[0] + strs[1]).ToString()}");
+        Console.WriteLine($"Concatenation with string: {(strs[0] + str3).ToString()}");
 
         Console.ReadKey();
     }

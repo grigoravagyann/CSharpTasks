@@ -5,7 +5,7 @@ namespace MyStringNamespace
     public class MyString
     {
         char[] _myStr;
-        public string String { get => new string(_myStr); }
+        public override string ToString() => new string(_myStr);
         public MyString()
         {
             _myStr = default;
