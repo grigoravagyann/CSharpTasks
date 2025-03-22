@@ -1,4 +1,6 @@
-﻿
+﻿using CourseN;
+using GroupN;
+
 namespace CourseGroupModule
 {
     static class Methods

@@ -1,5 +1,6 @@
-﻿
-namespace CourseGroupModule
+﻿using ModuleN;
+
+namespace CourseN
 {
     class Course
     {

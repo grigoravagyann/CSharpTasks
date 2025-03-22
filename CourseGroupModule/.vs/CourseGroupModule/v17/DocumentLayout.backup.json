@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\coursegroupmodule\\coursegroupmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\github_csharptasks\\coursegroupmodule\\coursegroupmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\coursegroupmodule\\coursegroupmodule\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\coursegroupmodule\\coursegroupmodule\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\coursegroupmodule\\coursegroupmodule\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\github_csharptasks\\coursegroupmodule\\coursegroupmodule\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\c#\\coursegroupmodule\\coursegroupmodule\\moduleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\github_csharptasks\\coursegroupmodule\\coursegroupmodule\\moduleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\moduleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\github_csharptasks\\coursegroupmodule\\coursegroupmodule\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|c:\\users\\user\\desktop\\picsart academy\\github_csharptasks\\coursegroupmodule\\coursegroupmodule\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED4232-D5BF-4329-BA87-CDEA46D4FF6D}|CourseGroupModule\\CourseGroupModule.csproj|solutionrelative:coursegroupmodule\\courseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,39 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Methods.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\Methods.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\Methods.cs",
               "RelativeDocumentMoniker": "CourseGroupModule\\Methods.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\Methods.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\Methods.cs",
               "RelativeToolTip": "CourseGroupModule\\Methods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T21:05:40.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ModuleClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\ModuleClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\ModuleClass.cs",
               "RelativeDocumentMoniker": "CourseGroupModule\\ModuleClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\ModuleClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\ModuleClass.cs",
               "RelativeToolTip": "CourseGroupModule\\ModuleClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T20:24:40.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GroupClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\GroupClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\GroupClass.cs",
               "RelativeDocumentMoniker": "CourseGroupModule\\GroupClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\GroupClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\GroupClass.cs",
               "RelativeToolTip": "CourseGroupModule\\GroupClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T20:24:32.9Z",
               "EditorCaption": ""
@@ -79,24 +79,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\Program.cs",
               "RelativeDocumentMoniker": "CourseGroupModule\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\Program.cs",
               "RelativeToolTip": "CourseGroupModule\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T20:18:28.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CourseClass.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\CourseClass.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\CourseClass.cs",
               "RelativeDocumentMoniker": "CourseGroupModule\\CourseClass.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\C#\\CourseGroupModule\\CourseGroupModule\\CourseClass.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\PicsArt Academy\\Github_CSharpTasks\\CourseGroupModule\\CourseGroupModule\\CourseClass.cs",
               "RelativeToolTip": "CourseGroupModule\\CourseClass.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T20:24:21.466Z",
               "EditorCaption": ""

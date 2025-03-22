@@ -9,11 +9,14 @@
     The relationship between Course,Module and Group, Course is has a, and Course=>Web,Game,Ai is a.
 
  Methods:
-    1) Find the number of students studying web (it is assumed that there may be different web groups).
+    1) Find the number of students studying web.
     2) Find how much money will be saved in a month from the amount paid by students studying Game Dev within the Unreal engine.
     3) Find the most popular course (by number of students).
  */
 
+using CourseN;
+using ModuleN;
+using GroupN;
 using CourseGroupModule;
 class Program
 {
@@ -50,7 +53,7 @@ class Program
             new Group("Game Dev Group 1", 20, courses[3]),   // Unity Game Development
             new Group("Game Dev Group 2", 18, courses[4])    // Unreal Game Development
         };
-        
+
         Methods.WebStudentsCount(groups); // 1)
         Methods.GameDevUnrealSavings(groups); // 2)
         Methods.MostPopularCourse(groups); // 3) 

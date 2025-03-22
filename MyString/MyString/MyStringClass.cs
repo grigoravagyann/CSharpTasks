@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace MyStringNamespace
 {
@@ -86,7 +87,7 @@ namespace MyStringNamespace
         }
         public static string Join(char s, MyString[] strs)
         {
-            string retstr = "";
+            StringBuilder retstr = new StringBuilder();
             foreach (var str in strs)
             {
                 if (str is null)
@@ -94,9 +95,10 @@ namespace MyStringNamespace
             }
             foreach (var str in strs)
             {
-                retstr = (retstr + s + new string(str._myStr));
+                retstr.Append(s.ToString());
+                retstr.Append(new string(str._myStr));
             }
-            return retstr.Substring(1);
+            return retstr.ToString().Substring(1);
         }
         public bool EndsWith(string substr)
         {

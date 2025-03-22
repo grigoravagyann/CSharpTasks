@@ -1,7 +1,7 @@
 ﻿
 namespace ChildrenAndParents
 {
-    static class Methods
+    class Methods
     {
         public static void PrintByParentsAge(double year, params Child[] children)
         {
