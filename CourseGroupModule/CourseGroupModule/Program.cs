@@ -17,7 +17,7 @@
 using CourseN;
 using ModuleN;
 using GroupN;
-using CourseGroupModule;
+using ProgramMethods;
 class Program
 {
     static void Main()
